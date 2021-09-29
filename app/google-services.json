@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "206215771020",
+    "firebase_url": "https://tetris-90b2b.firebaseio.com",
+    "project_id": "tetris-90b2b",
+    "storage_bucket": "tetris-90b2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206215771020:android:d0347cf1e8e60a69",
+        "android_client_info": {
+          "package_name": "com.example.tetris"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206215771020-re3f8gk5j8pl2v8rjsk43gpr0rq7l647.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tetris",
+            "certificate_hash": "4d2736b6172b1c44f638d15d533d13fd3e0726c2"
+          }
+        },
+        {
+          "client_id": "206215771020-0knb9hkra47u7igicipqv2paoodal4ct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9AsWKcXnZs-cDlXsl35mXCQ353Dbyy4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206215771020-0knb9hkra47u7igicipqv2paoodal4ct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

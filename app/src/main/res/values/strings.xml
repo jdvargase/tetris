@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tetris</string>
+    <string name="Puntaje">PUNTAJE: 0</string>
+    <string name="reiniciar">REINICIAR</string>
+    <string name="pausa">PAUSA</string>
+    <string name="logotetris">logotetris</string>
+</resources>
